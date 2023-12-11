@@ -8,6 +8,9 @@ C/C++
 Python
 Java
 Swift
+HTML
+CSS
+
 
 
 

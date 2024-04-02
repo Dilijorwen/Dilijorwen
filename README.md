@@ -11,4 +11,4 @@
 - HTML
 - CSS
 - JavaScript
-- Postresql
+- PostgreSQL

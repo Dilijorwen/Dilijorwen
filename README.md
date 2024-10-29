@@ -2,9 +2,6 @@
 
 
 ### I can use:
-
-
-- C/C++ (This is where I wrote the algorithms)
 - Python (Here I wrote a simple program and a game P.S. It's not saved ☹)
 - Swift (This is where I wrote an IOS app for a term paper)
 - PostgreSQL

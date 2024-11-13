@@ -3,5 +3,7 @@
 
 ### I can use:
 - Python
+- R
+- Octave
 - Swift
 - PostgreSQL

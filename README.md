@@ -2,8 +2,8 @@
 
 
 ### I can use:
-- Python
-- R
+- **Python**
+- **R**
 - Octave
 - Swift
 - PostgreSQL

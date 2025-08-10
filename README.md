@@ -5,7 +5,7 @@
 
 
 ### About me
-- 🌱 I'm currently studying at FEFU in the 3rd year of applied mathematics and informatics.
+- 🌱 I'm currently studying at FEFU in the 4rd year of applied mathematics and informatics.
 - 📫 Reach me by [Email](mailto:dirijabl657@gmail.com), [Telegram](https://t.me/dilijorwen/)
 - 🌍 I speak Russian and English
 

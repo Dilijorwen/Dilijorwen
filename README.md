@@ -6,7 +6,7 @@
 
 ### About me
 - 🌱 I'm currently studying at FEFU in the 3rd year of applied mathematics and informatics.
-- 📫 Reach me by [HeadHunter](https://vladivostok.hh.ru/resume/c04d4307ff0d0916c00039ed1f537345503364), [email](mailto:dirijabl657@gmail.com), [Telegram](https://t.me/dilijorwen/)
+- 📫 Reach me by [Email](mailto:dirijabl657@gmail.com), [Telegram](https://t.me/dilijorwen/)
 - 🌍 I speak Russian and English
 
 ---

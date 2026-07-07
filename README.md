@@ -5,7 +5,7 @@
 
 
 ### About me
-- 🌱 I'm currently studying at FEFU in the 4rd year of applied mathematics and informatics.
+- 🌱 I have a Bachelor's degree in Applied Mathematics and Informatics from FEFU
 - 📫 Reach me by [Email](mailto:dirijabl657@gmail.com), [Telegram](https://t.me/dilijorwen/), [HH](https://vladivostok.hh.ru/resume/c04d4307ff0d0916c00039ed1f537345503364)
 - 🌍 I speak Russian and English
 
